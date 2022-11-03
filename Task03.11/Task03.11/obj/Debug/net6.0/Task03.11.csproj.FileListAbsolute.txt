@@ -1,0 +1,15 @@
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\bin\Debug\net6.0\Task03.11.exe
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\bin\Debug\net6.0\Task03.11.deps.json
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\bin\Debug\net6.0\Task03.11.runtimeconfig.json
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\bin\Debug\net6.0\Task03.11.dll
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\bin\Debug\net6.0\Task03.11.pdb
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\Task03.11.csproj.AssemblyReference.cache
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\Task03.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\Task03.11.AssemblyInfoInputs.cache
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\Task03.11.AssemblyInfo.cs
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\Task03.11.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\Task03.11.dll
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\refint\Task03.11.dll
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\Task03.11.pdb
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\Task03.11.genruntimeconfig.cache
+C:\Users\Nurlan Memmedov\source\repos\Task03.11\Task03.11\obj\Debug\net6.0\ref\Task03.11.dll
